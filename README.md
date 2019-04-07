@@ -5,7 +5,7 @@
 
 ## Courses taken in this Semester
 
-1. Intelligent Visual Computing (Focus on 3D).
+1. Intelligent Visual Computing - Deep Learning (Focus on 3D).
 2. Advanced NLP - Deep Learning.
 3. IoT-Sensing - Advanced Wireless Networking.
 
