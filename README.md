@@ -1,9 +1,9 @@
-## Current Projects
+## Projects in Spring 2019
 
 1. Visual Question Answering with Attention model.
 2. Device-free, multi-target, 3D gesture tracking using Acoustic.
 
-## Courses taken in this Semester
+## Courses taken in Spring 2019
 
 1. Intelligent Visual Computing - Deep Learning (Focus on 3D).
 2. Advanced NLP - Deep Learning.
